@@ -10,24 +10,29 @@ Integrantes:
 - Davi Oliveira Silva (1º período);
 - Robson Carlos Nunes Vieira (3º período);
 - Lucas Manu da Silva (3º período).
-Curso: Curso Superior de Tecnológia Análise e Desenvolvimento de Sistemas.
+Curso: Superior de Tecnológia Análise e Desenvolvimento de Sistemas.
 Categoria: Pior Experiência de Usuário.
 
 
 # e) Link do MVP ou protótipo funcional online.
-
+https://harison-manoel.github.io/CodeForge-Hackaton-2026/
 
 
 # h) Instruções de uso, teste e acesso.
-
+Basta acessar o site pelo link ou baixar o repositório e abrir o arquivo index.html, depois só seguir
 
 
 # i) Tecnologias, bibliotecas, frameworks e ferramentas utilizadas.
-
+HTML (HyperText Markup Language) para a estrutura, CSS (Cascading Style Sheets) para a customização e JS (JavaScript) para o comportamento.
 
 
 # j) ferramentas de inteligência artificial utilizadas e sua finalidade;
 
-- Google Gemini:
-Essa IA foi usada para organizar e consolidar nossas ideias, pesquisas de funções e e algumas ideias 
+- Google Gemini e ChatGPT: Usados para organizar e consolidar nossas ideias, fazer pesquisa de funções/conceitos de UI/UX e para criar os desenhos dos personagens.
+- Base44: Usado para desenvolver protótipos e pegar ideias.
+- Google Antigravity: Usado para desenvolver os códigos do protótipo final.  
 
+
+# Outros Requisitos
+- Conceitos de UI/UX violados: Focamos principalmente nas 10 Heurísticas de Nielsen, mais detalhes no final do site.
+- Comparativo pra versão corrigida: https://harison-manoel.github.io/CodeForge-Corrigido/
