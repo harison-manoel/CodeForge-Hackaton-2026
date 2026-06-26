@@ -7,7 +7,6 @@ Equipe: CodeForge.
 Integrantes: 
 - Edson Henrique Gomes Rodrigues (3º período);
 - Harison Manoel dos Santos Matos (3º período);
-- Davi Oliveira Silva (1º período);
 - Robson Carlos Nunes Vieira (3º período);
 - Lucas Manu da Silva (3º período).
 Curso: Superior de Tecnológia Análise e Desenvolvimento de Sistemas.
@@ -15,7 +14,7 @@ Categoria: Pior Experiência de Usuário.
 
 
 # e) Link do MVP ou protótipo funcional online.
-https://harison-manoel.github.io/CodeForge-Hackaton-2026/
+https://incredible-basbousa-df4f06.netlify.app
 
 
 # h) Instruções de uso, teste e acesso.
